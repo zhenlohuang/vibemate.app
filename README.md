@@ -1,3 +1,11 @@
+> [!WARNING]
+> **This project has been archived and is no longer maintained.**
+>
+> Please use the actively maintained successor project instead:  
+> 👉 https://github.com/zhenlohuang/vibemate
+
+---
+
 <div align="center">
   <img src="docs/images/banner.png" alt="Vibe Mate Banner" width="800"/>
 
